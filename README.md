@@ -13,5 +13,3 @@ Went to office hours with Thomas Bogue to assist me with creating my limits and 
 How to run:
 - Open the index.html file using LiveServer.
 - Click on a marker to see more information about that specific earthquake.
-
-You can also access it from the repo page at this link: https://tohassan21.github.io/leaflet-challenge/
